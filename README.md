@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0009-palindrome-number) |
+| [0445-add-two-numbers-ii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0445-add-two-numbers-ii) |
 ## Array
 |  |
 | ------- |
@@ -24,8 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0086-partition-list](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0086-partition-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0237-delete-node-in-a-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0445-add-two-numbers-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0086-partition-list) |
+## Stack
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
