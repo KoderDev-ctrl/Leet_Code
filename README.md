@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0009-palindrome-number) |
 | [0445-add-two-numbers-ii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0445-add-two-numbers-ii) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Array
 |  |
 | ------- |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+## String
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
