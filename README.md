@@ -46,17 +46,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Recursion
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0143-reorder-list) |
+## Sorting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Counting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
