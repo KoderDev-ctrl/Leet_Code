@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0735-asteroid-collision) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
@@ -80,5 +81,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0735-asteroid-collision) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
