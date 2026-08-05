@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
