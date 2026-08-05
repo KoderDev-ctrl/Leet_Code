@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0219-contains-duplicate-ii) |
 | [0682-baseball-game](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0735-asteroid-collision) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0219-contains-duplicate-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0073-set-matrix-zeroes) |
 ## Sliding Window
 |  |
 | ------- |
