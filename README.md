@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0006-zigzag-conversion) |
 | [0058-length-of-last-word](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0058-length-of-last-word) |
 | [0290-word-pattern](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0299-bulls-and-cows) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Simulation
