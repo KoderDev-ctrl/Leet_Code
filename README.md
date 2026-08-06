@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0735-asteroid-collision) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1929-concatenation-of-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3731-find-missing-elements](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3731-find-missing-elements) |
