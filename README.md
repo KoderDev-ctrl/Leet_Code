@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0445-add-two-numbers-ii) |
 | [0682-baseball-game](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0682-baseball-game) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0058-length-of-last-word) |
 | [0290-word-pattern](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0299-bulls-and-cows) |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0347-top-k-frequent-elements) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
