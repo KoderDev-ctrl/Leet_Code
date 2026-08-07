@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0383-ransom-note) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0058-length-of-last-word) |
 | [0290-word-pattern](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0299-bulls-and-cows) |
+| [0383-ransom-note](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0383-ransom-note) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0383-ransom-note) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Simulation
 |  |
