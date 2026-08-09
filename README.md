@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1929-concatenation-of-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3731-find-missing-elements](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3731-find-missing-elements) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0387-first-unique-character-in-a-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Simulation
 |  |
