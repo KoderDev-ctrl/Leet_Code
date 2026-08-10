@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0771-jewels-and-stones](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0409-longest-palindrome) |
+| [0771-jewels-and-stones](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0771-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
