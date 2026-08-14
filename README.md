@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0268-missing-number) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0445-add-two-numbers-ii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0445-add-two-numbers-ii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0143-reorder-list) |
+| [0231-power-of-two](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0231-power-of-two) |
 ## Sorting
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0389-find-the-difference) |
 ## Heap (Priority Queue)
