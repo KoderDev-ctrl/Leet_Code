@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0319-bulb-switcher) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0445-add-two-numbers-ii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0445-add-two-numbers-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -253,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
