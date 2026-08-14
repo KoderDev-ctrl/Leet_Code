@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -258,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0319-bulb-switcher) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
