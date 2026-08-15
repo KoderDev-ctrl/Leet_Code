@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
