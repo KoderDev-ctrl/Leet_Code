@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0532-k-diff-pairs-in-an-array) |
