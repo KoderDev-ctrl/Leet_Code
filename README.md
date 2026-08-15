@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2396-strictly-palindromic-number](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/2396-strictly-palindromic-number) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3536-maximum-product-of-two-digits) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0633-sum-of-square-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2396-strictly-palindromic-number](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/2396-strictly-palindromic-number) |
 ## Stack
 |  |
 | ------- |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0319-bulb-switcher) |
+| [2396-strictly-palindromic-number](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/2396-strictly-palindromic-number) |
 ## Prefix Sum
 |  |
 | ------- |
