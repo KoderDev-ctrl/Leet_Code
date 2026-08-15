@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0423-reconstruct-original-digits-from-english](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0445-add-two-numbers-ii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0445-add-two-numbers-ii) |
 | [0633-sum-of-square-numbers](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0633-sum-of-square-numbers) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
