@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0319-bulb-switcher) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0268-missing-number) |
@@ -305,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1291-sequential-digits) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
