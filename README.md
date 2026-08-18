@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0575-distribute-candies) |
+| [0648-replace-words](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0648-replace-words) |
 | [0682-baseball-game](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0735-asteroid-collision) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0500-keyboard-row) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0575-distribute-candies](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0575-distribute-candies) |
+| [0648-replace-words](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0771-jewels-and-stones) |
 | [0929-unique-email-addresses](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0929-unique-email-addresses) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0423-reconstruct-original-digits-from-english](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0451-sort-characters-by-frequency](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0500-keyboard-row) |
+| [0648-replace-words](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0771-jewels-and-stones) |
 | [0929-unique-email-addresses](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0929-unique-email-addresses) |
@@ -328,5 +331,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0648-replace-words](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
