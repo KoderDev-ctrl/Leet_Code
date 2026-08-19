@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0735-asteroid-collision) |
 | [0929-unique-email-addresses](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1004-max-consecutive-ones-iii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0219-contains-duplicate-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1004-max-consecutive-ones-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting Sort
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0633-sum-of-square-numbers) |
+| [1004-max-consecutive-ones-iii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1480-running-sum-of-1d-array) |
 ## Quicksort
 |  |
