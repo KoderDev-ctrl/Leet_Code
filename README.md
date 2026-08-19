@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0735-asteroid-collision) |
+| [0904-fruit-into-baskets](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0904-fruit-into-baskets) |
 | [0929-unique-email-addresses](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1004-max-consecutive-ones-iii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0771-jewels-and-stones) |
+| [0904-fruit-into-baskets](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0904-fruit-into-baskets) |
 | [0929-unique-email-addresses](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0219-contains-duplicate-ii) |
+| [0904-fruit-into-baskets](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1004-max-consecutive-ones-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
