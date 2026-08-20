@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0143-reorder-list) |
+| [0151-reverse-words-in-a-string](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0283-move-zeroes) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0344-reverse-string) |
