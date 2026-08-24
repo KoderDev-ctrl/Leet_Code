@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0056-merge-intervals) |
+| [0068-text-justification](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0169-majority-element) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0299-bulls-and-cows) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0068-text-justification) |
 | [0682-baseball-game](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1929-concatenation-of-array) |
