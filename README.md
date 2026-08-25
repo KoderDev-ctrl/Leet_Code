@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0056-merge-intervals) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0202-happy-number) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0151-reverse-words-in-a-string) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0169-majority-element) |
