@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0231-power-of-two) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0054-spiral-matrix) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0073-set-matrix-zeroes) |
 ## Sliding Window
