@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0575-distribute-candies) |
+| [0622-design-circular-queue](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0622-design-circular-queue) |
 | [0648-replace-words](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0648-replace-words) |
 | [0682-baseball-game](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0692-top-k-frequent-words) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0143-reorder-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0445-add-two-numbers-ii) |
+| [0622-design-circular-queue](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0622-design-circular-queue) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0622-design-circular-queue) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -421,4 +424,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1927-sum-game) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
