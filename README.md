@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0413-arithmetic-slices](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0413-arithmetic-slices) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0500-keyboard-row) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0053-maximum-subarray) |
+| [0413-arithmetic-slices](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0413-arithmetic-slices) |
 ## Linked List
 |  |
 | ------- |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0219-contains-duplicate-ii) |
+| [0413-arithmetic-slices](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0413-arithmetic-slices) |
 | [0904-fruit-into-baskets](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
