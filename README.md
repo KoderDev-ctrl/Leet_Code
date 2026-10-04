@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0085-maximal-rectangle) |
 | [0169-majority-element](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0085-maximal-rectangle) |
 | [0413-arithmetic-slices](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0413-arithmetic-slices) |
 ## Linked List
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0445-add-two-numbers-ii) |
 | [0682-baseball-game](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0682-baseball-game) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0085-maximal-rectangle) |
 ## Sliding Window
 |  |
 | ------- |
@@ -446,4 +450,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
