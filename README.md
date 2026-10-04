@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0189-rotate-array) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0268-missing-number) |
