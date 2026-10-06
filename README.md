@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0771-jewels-and-stones) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0929-unique-email-addresses](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0929-unique-email-addresses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0409-longest-palindrome) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1927-sum-game](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Boyer–Moore Majority Vote Algorithm
