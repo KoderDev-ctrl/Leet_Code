@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1004-max-consecutive-ones-iii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0633-sum-of-square-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1004-max-consecutive-ones-iii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
