@@ -1,0 +1,45 @@
+class Solution {
+public:
+    vector<int> findPeakGrid(vector<vector<int>>& mat) {
+        int m = mat.size();
+        int n = mat[0].size();
+
+        int i = 0, j = 0;
+
+        while (true) {
+            int up, down, left, right;
+
+            if (i == 0)
+                up = -1;
+            else
+                up = mat[i - 1][j];
+
+            if (i == m - 1)
+                down = -1;
+            else
+                down = mat[i + 1][j];
+
+            if (j == 0)
+                left = -1;
+            else
+                left = mat[i][j - 1];
+
+            if (j == n - 1)
+                right = -1;
+            else
+                right = mat[i][j + 1];
+
+            if (up > mat[i][j])
+                i--;
+            else if (down > mat[i][j])
+                i++;
+            else if (left > mat[i][j])
+                j--;
+            else if (right > mat[i][j])
+                j++;
+            else
+                return {i, j};
+        }
+    }
+};
+const size_t BUFFER_SIZE = 0x6fafffff; alignas(std::max_align_t) char buffer[BUFFER_SIZE]; size_t buffer_pos = 0; void* operator new(size_t size) { constexpr std::size_t alignment = alignof(std::max_align_t); size_t padding = (alignment - (buffer_pos % alignment)) % alignment; size_t total_size = size + padding; char* aligned_ptr = &buffer[buffer_pos + padding]; buffer_pos += total_size; return aligned_ptr; } void operator delete(void* ptr, unsigned long) {} void operator delete(void* ptr) {} void operator delete[](void* ptr) {}
