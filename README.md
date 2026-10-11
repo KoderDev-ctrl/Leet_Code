@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0500-keyboard-row) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0575-distribute-candies) |
 | [0622-design-circular-queue](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0622-design-circular-queue) |
 | [0648-replace-words](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0648-replace-words) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0500-keyboard-row) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0575-distribute-candies) |
 | [0648-replace-words](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0692-top-k-frequent-words) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/KoderDev-ctrl/Leet_Code/tree/master/1480-running-sum-of-1d-array) |
